@@ -31,10 +31,12 @@ The focal point of my contribution to this project is the Program Payments page.
 ### Deployment
 - **Platform:** The application was deployed using ColdFusion and Lucee, highlighting the project's reliance on these technologies for server-side scripting and application delivery. This deployment strategy was chosen for its reliability and performance in web application hosting.
 
-
 ## Demo Walkthrough
 
-For a detailed guide to the Program Payments page, please refer to this demo walkthrough: [Demo Walkthrough Link]. This walkthrough provides insight into the interactive features and data visualization techniques I implemented.
+For a detailed guide to the Program Payments page, including a demonstration of its interactive features and data visualization techniques, watch the demo video here:
+
+[![Watch the demo video](https://drive.google.com/file/d/1RzpvLFQaFHULE-usn9wSCyMwWfEnc-e1/view?usp=drive_link)](https://vimeo.com/914589327)
+
 
 ## Project Significance
 
@@ -43,4 +45,3 @@ This page was developed as part of a senior capstone project focusing on leverag
 ## Collaboration Note
 
 This project was a collaborative effort, and while my primary focus was on the Program Payments page, it was developed within the context of a larger team effort aimed at creating a comprehensive visualization tool for Medicare data.
-
